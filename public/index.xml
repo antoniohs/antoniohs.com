@@ -1,11 +1,356 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>http://localhost:1313/</link><description>Recent content on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 23 Jan 2025 21:50:45 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Why tech talent should prioritize mission-driven companies</title><link>http://localhost:1313/blog/prioritize-mission-driven-companies/</link><pubDate>Wed, 07 Aug 2024 08:05:05 +0100</pubDate><guid>http://localhost:1313/blog/prioritize-mission-driven-companies/</guid><description>&lt;p>In the rapidly evolving world of technology, there is a constant demand for individuals who possess cutting-edge technical skills. From software engineers to data scientists, we are in high demand and, as a result, we enjoy the privilege of choice when it comes to selecting our workplace.&lt;/p>
+&lt;p>Whilst compensation and career growth are important factors in why we choose to perform a specific job, personal realization and fulfilment is not only about money. That is why I encourage tech professionals to prioritize companies that have a clear and meaningful mission, specially the ones focused on creating equal opportunities and preserving a healthy ecosystem. Here&amp;rsquo;s why:&lt;/p></description></item><item><title>You are no longer one of them</title><link>http://localhost:1313/blog/you-are-no-longer-one-of-them/</link><pubDate>Mon, 29 Jul 2024 14:38:33 +0200</pubDate><guid>http://localhost:1313/blog/you-are-no-longer-one-of-them/</guid><description>&lt;p>One of the most common paths to becoming a technical leader is to have been “one of them”, part of the technical team in a purely technical role. Transitioning to a management or leadership position is not a simple feat; it requires a lot of learning, trial and error, and adaptation.&lt;/p>
+&lt;p>From management theory to interpersonal skills, if you are like me, you may not have explicitly planned to develop these abilities. Suddenly, you find yourself promoted to a management position or starting a new job as a technical leader after years in a senior software development role. There&amp;rsquo;s a crucial aspect of this transition that many new tech leads overlook:&lt;/p></description></item><item><title>Sherif Abdalla</title><link>http://localhost:1313/testimonial/sherif-abdalla/</link><pubDate>Thu, 23 Jan 2025 21:50:45 +0100</pubDate><guid>http://localhost:1313/testimonial/sherif-abdalla/</guid><description>&lt;p>I had the privilege of working under Antonio Hernández during his tenure as CTO at World Mobile Group. Antonio is an inspiring leader with an extraordinary strategic vision that shaped not only the company’s direction but also the way teams approached their work. He had a unique ability to align technical innovation with business goals, creating products that set new industry standards and delivered meaningful impact.&lt;/p>
+&lt;p>Antonio’s mentorship and leadership were instrumental in my growth as a team lead. His guidance encouraged me to think strategically, tackle challenges with confidence, and lead my team with purpose. Antonio’s vision extended far beyond day-to-day operations—he inspired everyone around him to see the bigger picture and work toward shared success.&lt;/p></description></item><item><title>World Mobile</title><link>http://localhost:1313/experience/worldmobile-principal/</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/worldmobile-principal/</guid><description>&lt;h2 id="principal-backend-engineer--strategic-technology-and-product-advisor">Principal Backend Engineer &amp;amp; Strategic Technology and Product Advisor&lt;/h2>
+&lt;p>In this strategic role, I returned to hands-on development to lead the refactoring and creation of new mission-critical systems, architecting high-performance, high-concurrency distributed systems in Go.&lt;/p>
+&lt;p>Beyond coding, I serve as a key advisor on strategic technology and product initiatives, leveraging my expertise to guide the company&amp;rsquo;s long-term vision and growth. This includes:&lt;/p>
+&lt;ul>
+&lt;li>Providing strategic guidance and mentorship to the CTO and Product departments.&lt;/li>
+&lt;li>Identifying and analyzing emerging technologies and market trends to inform strategic decisions.&lt;/li>
+&lt;li>Mentoring leadership on technical best practices, effective team management, and scalable product development processes.&lt;/li>
+&lt;li>Forging and supporting key technical partnerships to expand our sharing economy and enhance product capabilities.&lt;/li>
+&lt;li>Political representation of the company in front of Spanish speaking governments and regulators.&lt;/li>
+&lt;/ul></description></item><item><title>World Mobile</title><link>http://localhost:1313/experience/worldmobile-cpo/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/worldmobile-cpo/</guid><description>&lt;h2 id="acting-cpo">Acting CPO&lt;/h2>
+&lt;p>During a pivotal transition period, I stepped into the Acting CPO role to steer the company&amp;rsquo;s product strategy, delivery, and innovation. I led the successful implementation of a new, holistic product development framework that significantly increased cross-departmental collaboration and aligned our product roadmap more closely with market and user needs.&lt;/p>
+&lt;p>Championed a new product development approach that unified the Engineering, Design, and Marketing teams, fostering a more collaborative and efficient environment.&lt;/p></description></item><item><title>Carlos Sánchez</title><link>http://localhost:1313/testimonial/carlos-sanchez/</link><pubDate>Tue, 01 Oct 2024 21:30:46 +0100</pubDate><guid>http://localhost:1313/testimonial/carlos-sanchez/</guid><description>&lt;p>I had the pleasure of working alongside Antonio as the CTO during my time at WorldMobile. Antonio was an invaluable asset to our team, demonstrating exceptional technical expertise and an uncanny ability to quickly grasp complex concepts. His knowledge of Blockchain, DBs, architecture and cloud was truly impressive, and he was instrumental in guiding our team&amp;rsquo;s efforts in the challenging but promising field of blockchain.&lt;/p>
+&lt;p>Antonio was always willing to lend a hand, even diving into coding when necessary to help us meet tight deadlines or overcome technical obstacles. His accessibility and willingness to share his knowledge made him a fantastic mentor. I particularly appreciated his commitment to keeping the entire team informed about the company&amp;rsquo;s roadmap and goals, fostering a sense of shared purpose. Without a doubt, Antonio is a highly skilled and collaborative leader who I would be fortunate to work with again. I wholeheartedly recommend him for any technical role.&lt;/p></description></item><item><title>World Mobile</title><link>http://localhost:1313/client-work/world-mobile/</link><pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate><guid>http://localhost:1313/client-work/world-mobile/</guid><description/></item><item><title>DAi Apolon</title><link>http://localhost:1313/client-work/dai-apolon/</link><pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate><guid>http://localhost:1313/client-work/dai-apolon/</guid><description/></item><item><title>Enables</title><link>http://localhost:1313/client-work/enables/</link><pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate><guid>http://localhost:1313/client-work/enables/</guid><description/></item><item><title>MFC</title><link>http://localhost:1313/client-work/mfc/</link><pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate><guid>http://localhost:1313/client-work/mfc/</guid><description/></item><item><title>Goldline</title><link>http://localhost:1313/client-work/euromillions/</link><pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate><guid>http://localhost:1313/client-work/euromillions/</guid><description/></item><item><title>Amateur TV</title><link>http://localhost:1313/client-work/amateurtv/</link><pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate><guid>http://localhost:1313/client-work/amateurtv/</guid><description/></item><item><title>Cephalea: Ceph backup system</title><link>http://localhost:1313/projects/cephalea/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/cephalea/</guid><description>&lt;p>Cephalea was a project created to solve the problem of backing up while processing inmense amounts of data, produced by one of the subsidiary companies of my client, MFCXY Inc.&lt;/p>
+&lt;p>This company had a problem: The nature of the content that they produce didn&amp;rsquo;t allow them to use public cloud services, and had to rely on on-premise open-source solutions, in this case, Ceph. The Ceph backup system was struggling to handle the amount of data that was being produced, and didn&amp;rsquo;t allow to have the filters and processing that they needed.&lt;/p></description></item><item><title>Dopelist</title><link>http://localhost:1313/client-work/dopelist/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/client-work/dopelist/</guid><description/></item><item><title>High School of Hard Knocks</title><link>http://localhost:1313/education/high-school/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/education/high-school/</guid><description/></item><item><title>Scan 4 Points</title><link>http://localhost:1313/projects/scan4points/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/projects/scan4points/</guid><description>&lt;p>Scan 4 Points is the most engaging feature of the World Mobile app. It allows users to scan the networks surrounding them, and get points for discovering new unscanned hexagons in the map. The data about the network is then sent to World Mobile, using it as the first layer of information on the decision-making process for network deployment.&lt;/p>
+&lt;p>I created the product specification, including the user flow, gamification, and data model; as well as the technical specification, including APIs, backend services, and more. I also participated in the implementation of some backend services.&lt;/p></description></item><item><title>University of Life</title><link>http://localhost:1313/education/university-of-life/</link><pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate><guid>http://localhost:1313/education/university-of-life/</guid><description/></item><item><title>Scan for Points</title><link>http://localhost:1313/blog/scan4points/</link><pubDate>Fri, 09 Aug 2024 14:38:33 +0200</pubDate><guid>http://localhost:1313/blog/scan4points/</guid><description>&lt;h2 id="transforming-mobile-networks-for-community-ownership-and-participation">Transforming mobile networks for community ownership and participation&lt;/h2>
+&lt;hr>
+&lt;blockquote>
+&lt;p>A few months ago, I shared a post on World Mobile&amp;rsquo;s blog about an innovative initiative we&amp;rsquo;re undertaking. I am particularly proud of this product and initiative, that I led from the product and technical perspectives. That’s why, I wanted to share it on my personal webpage as well.&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;p>In a world where technology often seems to concentrate power in the hands of a few, World Mobile is forging a new path. Our mission is not just to build a mobile network, but to foster a global community, putting power back into the hands of those who use and rely on the network every day. Until now, our approach was focused on decentralising infrastructure and operation. With Scan for Points, we extend this further: end-users will perform prospect research, creating a truly community-driven experience.&lt;/p></description></item><item><title>AyA Whitepaper</title><link>http://localhost:1313/projects/aya-whitepaper/</link><pubDate>Fri, 31 Mar 2023 09:00:00 +0200</pubDate><guid>http://localhost:1313/projects/aya-whitepaper/</guid><description>&lt;p>AyA was born as a blockchain serving as the Telecommunications Settlement Layer of the EarthNode network, from World Mobile. Conceived as a Sidechain to Cardano, that served as Root of Trust, this paper was the first version of a series of future papers that aimed to generalize the solution to allow using multiple roots of trust.&lt;/p>
+&lt;p>After a pivot in World Mobile&amp;rsquo;s Strategy, AyA was not fully implemented, but it served as inspiration for some other projects.&lt;/p></description></item><item><title>World Mobile Chain Whitepaper</title><link>http://localhost:1313/projects/wmc-whitepaper/</link><pubDate>Wed, 31 Mar 2021 09:00:00 +0200</pubDate><guid>http://localhost:1313/projects/wmc-whitepaper/</guid><description>&lt;p>The World Mobile Chain whitepaper was the first version of World Mobile&amp;rsquo;s vision:&lt;/p>
+&lt;p>&lt;em>A shared economy model to deliver network infrastructure that would enable improvements in efficiencies of network design and operation, as well as provide a more fluid delivery of connectivity to users of a network.&lt;/em>&lt;/p>
+&lt;p>As the CTO of World Mobile, I co-authored this paper, and architected the technical solution, including the blockchain integration, decentralized identity, encryption and privacy, NOC services, and more. I also created and led the team that implemented the system during the initial 5 years.&lt;/p></description></item><item><title>World Mobile</title><link>http://localhost:1313/experience/worldmobile-cto/</link><pubDate>Sun, 02 Dec 2018 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/worldmobile-cto/</guid><description>&lt;h2 id="cto--co-founder">CTO &amp;amp; Co-Founder&lt;/h2>
+&lt;p>As a co-founder and hands-on CTO, I architected and built a cutting-edge telecommunications ecosystem from the ground up. My work focused on integrating Decentralized Ledgers (DLTs), Decentralized Identifiers (DIDs), and advanced encryption to ensure unparalleled customer security and privacy.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Team Building &amp;amp; Leadership:&lt;/strong> Built and led a high-performing, global team of over 30 engineers, leveraging my professional network to attract top talent. I established and supervised the IT, Information Security, and QA departments, ensuring strategic alignment across all technical functions.&lt;/li>
+&lt;li>&lt;strong>Strategic Execution:&lt;/strong> Spearheaded the development of our core blockchain system, collaborating with leading experts and software architects. I also successfully negotiated contracts with and managed several outsource and augmentation partners to scale our development capabilities effectively.&lt;/li>
+&lt;li>&lt;strong>Public Engagement &amp;amp; Vision:&lt;/strong> Served as a key public-facing voice for the company, presenting technical advancements and strategic initiatives to our community, investors, and partners through Twitter Spaces, YouTube interviews, and live events. I excelled at translating complex technical concepts into accessible language to drive stakeholder engagement.&lt;/li>
+&lt;li>&lt;strong>Operational Management:&lt;/strong> Managed the Spanish subsidiary, World Mobile Labs, overseeing all local operations.&lt;/li>
+&lt;/ul></description></item><item><title>Dai Apolon - Self Owned</title><link>http://localhost:1313/experience/daiapolon/</link><pubDate>Fri, 02 Dec 2016 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/daiapolon/</guid><description>&lt;h2 id="technology-consultant">Technology consultant&lt;/h2>
+&lt;p>I founded Dai Apolon as my independent consulting practice to provide strategic technology leadership and hands-on development for a diverse range of international clientes. Through Dai Apolon, I have engaged in high-impact projects, serving in flexible roles such as fractional CTO, software architect, product manager, and strategic advisor.&lt;/p>
+&lt;p>Key engagements and achievements include:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Diverse client porftfolio:&lt;/strong> Delivered solutions for a portfolio of global clientes, including companies within the MFCXY portfolio (MyFreeCams &amp;amp; OnlyFans), HTS Tel Ltd, Spreadshare Inc, and Rubix Telecom GmbH.&lt;/li>
+&lt;li>&lt;strong>Expert witness testimony:&lt;/strong> Provided expert witness services in complex legal proceedings, where my in-depth technical forensic analysis was instrumental in securing a favorable veredict.&lt;/li>
+&lt;li>&lt;strong>Startup incubation:&lt;/strong> Advised the former founders of Enabl.es on a proof-of-concept project that successfully validated its market potential and evolved into the startup World Mobile, which i subsequently joined as Co-Founder and CTO.&lt;/li>
+&lt;li>&lt;strong>Current engagaments:&lt;/strong> Currently providing part-time strategic consulting for serveral stealth-mode startups in the applied AI space, and working as Principal Engineer and Strategic Technology and Product advisor for World Mobile.&lt;/li>
+&lt;/ul></description></item><item><title>Enabl.es</title><link>http://localhost:1313/experience/enables/</link><pubDate>Fri, 02 Dec 2016 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/enables/</guid><description>&lt;h2 id="cto--lead-developer">CTO &amp;amp; Lead Developer&lt;/h2>
+&lt;p>I was recruited by the founders as a senior backend developer and, within two months, was appointed by the outgoing CTO to be his successor.  This was a pivotal moment that defined my path as the “accidental CTO” — a leader who naturally steps up to take ownership of complex technical challenges.&lt;/p>
+&lt;p>As CTO and lead developer, I immediately led the platform&amp;rsquo;s critical transformation into an open, event-source REST API. This was a strategic imperative, directly addressing the business team&amp;rsquo;s need for constant historical data projections and unlocking new integration capabilities.&lt;/p></description></item><item><title>Raúl Mesa</title><link>http://localhost:1313/testimonial/raul-mesa/</link><pubDate>Tue, 03 May 2016 21:53:18 +0100</pubDate><guid>http://localhost:1313/testimonial/raul-mesa/</guid><description>&lt;p>It was a pleasure to work with Antonio, a natural-born leader, charismatic, and has a special gift for management.&lt;/p>
+&lt;p>He is well versed in agile software development, not only in code architecture, but also in systems and infrastructure. He is uber pragmatic, always thinking and implementing with the goal that everything works in a performant way.&lt;/p>
+&lt;p>Great colleague and excellent CTO.&lt;/p>
+&lt;p>A true leader.&lt;/p></description></item><item><title>Euromillions.com</title><link>http://localhost:1313/experience/euromillions-com/</link><pubDate>Wed, 02 Dec 2015 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/euromillions-com/</guid><description>&lt;h2 id="cto--lead-developer">CTO &amp;amp; Lead Developer&lt;/h2>
+&lt;p>I was recruited for a focused, one-year engagement to lead a complete technical and cultural transformation of the Euromillions.com platform. The primary challenge was to overhaul a complex legacy codebase inherited from an outsourced team and establish a new standard for technical excellence.&lt;/p>
+&lt;p>My mission was to drive a rapid turnaround and build a strong foundation for the platform&amp;rsquo;s future growth. Key achievements included:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Platform Modernization:&lt;/strong> Spearheaded the adoption of modern software development best practices, including Scrum, eXtreme Programming (XP), TDD, and continuous deployment. This initiative resulted in dramatic improvements to platform performance, reliability, and quality.&lt;/li>
+&lt;li>&lt;strong>Team Building &amp;amp; Mentorship:&lt;/strong> Built a new, robust in-house technical and artistic team from the ground up, replacing the previous outsourced model. I personally mentored the team, empowering them with modern software development and DevOps methodologies.&lt;/li>
+&lt;/ul></description></item><item><title>VTS Media</title><link>http://localhost:1313/experience/vts-media-deputy-manager/</link><pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/vts-media-deputy-manager/</guid><description>&lt;h2 id="deputy-general-manager">Deputy General Manager&lt;/h2>
+&lt;p>Following my success as CTO, I was promoted to Deputy General Manager, working directly alongside the CEO to guide the company&amp;rsquo;s strategic expansion. In this executive role, I was tasked with stabilizing the company&amp;rsquo;s core product and its teams, successfully setting the stage for our next phase of growth.&lt;/p>
+&lt;p>Spearheaded the company&amp;rsquo;s diversification strategy, overseeing the development of new products and leading the creation of new, specialized technical teams to support these initiatives.&lt;/p></description></item><item><title>VTS Media</title><link>http://localhost:1313/experience/vts-media-cto/</link><pubDate>Thu, 02 Dec 2010 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/vts-media-cto/</guid><description>&lt;h2 id="cto--lead-developer">CTO &amp;amp; Lead Developer&lt;/h2>
+&lt;p>Recruited by a former co-founder, I joined this new venture as its first CTO and Lead Developer. I led the complete architectural transformation of the initial MVP, evolving it into a highly scalable and robust commercial product.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Technical Leadership:&lt;/strong> Architected and executed the migration from a monolithic codebase to a modern, modular, service-oriented architecture, setting a new industry standard for handling high-traffic loads.&lt;/li>
+&lt;li>&lt;strong>Process &amp;amp; Methodology:&lt;/strong> Implemented Test-Driven Development (TDD) and Domain-Driven Design (DDD), which significantly enhanced the platform&amp;rsquo;s maintainability, performance, and reliability.&lt;/li>
+&lt;li>&lt;strong>Team Scaling:&lt;/strong> Grew the development team from an initial two-person unit to a high-performing team of 14 engineers, developers, and designers.&lt;/li>
+&lt;li>&lt;strong>Product Innovation:&lt;/strong> Bridged the gap between technology and product by designing and implementing some of the platform&amp;rsquo;s most sought-after gamification features.&lt;/li>
+&lt;li>&lt;strong>Agile Transformation:&lt;/strong> Championed the adoption of Agile methodologies, primarily Scrum, and became a certified Scrum Master to ensure our processes were efficient and effective.&lt;/li>
+&lt;/ul>
+&lt;p>At the end of my tenure as CTO, amateur.tv was the number one video platform in Spain, and one of the top three Spanish-speaking ones in the world.&lt;/p></description></item><item><title>Electronic Life Solutions</title><link>http://localhost:1313/experience/electronic-life-solutions/</link><pubDate>Tue, 02 Dec 2008 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/electronic-life-solutions/</guid><description>&lt;h2 id="cto--lead-developer">CTO &amp;amp; Lead Developer&lt;/h2>
+&lt;p>When Electronic Life Solutions approached me to join as their CTO, I was immediately drawn to the demanding technical requirements of the role: building high-performance, scalable, and secure systems for real-time video streaming and payments.&lt;/p>
+&lt;p>My focus on the complexity of the technical challenge was so complete that it wasn&amp;rsquo;t until the final stages of the hiring process that I discovered the specific industry they operated in. While unexpected, my philosophy until then had been that a fascinating and difficult technical problem is worth solving, regardless of the domain.&lt;/p></description></item><item><title>Codilink</title><link>http://localhost:1313/experience/codilink/</link><pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/codilink/</guid><description>&lt;h2 id="senior-backend-developer--analyst">Senior Backend Developer &amp;amp; Analyst&lt;/h2>
+&lt;p>At Codilink, I joined a pioneering company at the forefront of mobile marketing, developing one of the UK&amp;rsquo;s early QR code promotional voucher systems.&lt;/p>
+&lt;p>As a senior technical leader, I was entrusted with one of the company&amp;rsquo;s key accounts, where I was the lead developer responsible for the core infrastructure. My role was pivotal in ensuring the security, scalability, and success of the platform.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Lead Developer &amp;amp; Architect:&lt;/strong> I led the design and implementation of the project&amp;rsquo;s secure and scalable backend systems, taking full ownership of the technical architecture for a key company account.&lt;/li>
+&lt;li>&lt;strong>Hands-On Engineering:&lt;/strong> I engineered the core backend functionalities using PHP and Java, while also managing the complete database lifecycle, including advanced MySQL administration and replication.&lt;/li>
+&lt;li>&lt;strong>Security &amp;amp; Reliability:&lt;/strong> I was responsible for conducting comprehensive security audits to ensure the integrity and safety of the platform and its data.&lt;/li>
+&lt;/ul></description></item><item><title>Vespito</title><link>http://localhost:1313/experience/vespito/</link><pubDate>Wed, 01 Dec 2004 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/vespito/</guid><description>&lt;h2 id="backend-developer-and-database-administrator">Backend Developer and Database Administrator&lt;/h2>
+&lt;p>After a successful exit from my first venture, I deliberately sought a role to deepen my expertise in backend systems. This led me to Vespito, a local consultancy and the official Spanish partner for MySQL.&lt;/p>
+&lt;p>During my time there, I specialized in engineering robust backend systems using PHP and earned my official MySQL administrator certification.&lt;/p>
+&lt;p>More importantly, this role was an opportunity to drive technical evolution from within. I identified key areas for improvement and championed the adoption of modern software engineering practices. I successfully introduced the company&amp;rsquo;s leadership to the value of:&lt;/p></description></item><item><title>Perception Technologies</title><link>http://localhost:1313/experience/perception-technologies/</link><pubDate>Wed, 01 Dec 1999 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/perception-technologies/</guid><description>&lt;h2 id="my-first-experience-as-a-co-founder">My first experience as a co-founder&lt;/h2>
+&lt;p>In 1999, alongside two university colleagues, I co-founded Perception Technologies with an ambitious vision: to build web-based applications that would revolutionize the local industry, inspired by pioneering digital studios like DoubleYou. We established a hybrid model, developing our own proprietary products while sustaining the business through strategic consulting for local clients.&lt;/p>
+&lt;p>We successfully developed a portfolio of innovative products. However, when the dot-com bubble burst—a challenge felt acutely in Spain after the Terra debacle—we adapted to the new market reality. With venture capital becoming scarce, we strategically pivoted the company to focus entirely on our consultancy services, ensuring its resilience and continued growth.&lt;/p></description></item><item><title>Footer</title><link>http://localhost:1313/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/footer/footer/</guid><description>&lt;section id="contact" class="section section--contact pt-0">
+ &lt;div class="container">
+ &lt;div class="contact w-100">
+ &lt;h2>Reach out&lt;/h2>
+
+ &lt;div class="row pt-2">
+ &lt;div class="col-12 col-lg-7">
+ &lt;form action="https://formspree.io/f/xpwrvwdp" method="POST" class="contact__form">
+ &lt;div class="row">
+ &lt;div class="col-12 col-sm-6">
+ &lt;input type="text" name="full_name" class="form-control" placeholder="Your name">
+ &lt;/div>
+ &lt;div class="col-12 col-sm-6">
+ &lt;input type="email" name="email" class="form-control" placeholder="Your e-mail">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;input type="tel" name="phone" class="form-control" placeholder="Your phone">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;textarea name="message" class="form-control" rows="3" placeholder="Your text">&lt;/textarea>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="row pt-4">
+ &lt;div class="col-12">
+ &lt;button type="submit" class="btn btn-primary">Send message&lt;/button>
+ &lt;/div>
+ &lt;/div>
+ &lt;/form>
+ &lt;/div>
+ &lt;div class="col-12 col-lg-5 contact__info">
+ 
+
+ 
+ 
+ 
+ &lt;h3>My location&lt;/h3>
+ &lt;span>🇪🇸 Barcelona, Spain&lt;/span>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+&lt;section class="section section--border-bottom rad-animation-group section--padding">
+ &lt;div class="container d-flex justify-content-center align-items-center">
+ &lt;div class="row rad-fade-down">
+ &lt;div class="col-12 text-center">
+ 
+ &lt;h2 class="section__title">Let&amp;#39;s work together to improve the world&lt;/h2>
+ 
+ 
+ &lt;div class="text-section__content">
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section></description></item><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ &lt;div id="main-content">
+ 
+
+
+ 
+
+ &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate">
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+ &lt;h1 class="display-1">
+ Purpose-Driven
+ &lt;/h1>
+ &lt;h2 class="display-5">
+ &lt;span>Engineer&lt;/span>
+ &lt;/h2>
+ &lt;div class="lead">
+ &lt;p>There comes a point where a &lt;strong>career&lt;/strong> is no longer about the next role, but &lt;strong>&lt;em>the right impact&lt;/em>&lt;/strong>.&lt;/p>&lt;p>That means aligning every line of code and every leadership decision with a &lt;strong>single purpose: &lt;em>to improve our world&lt;/em>&lt;/strong>.&lt;/p>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/showcase/showcaseanto_hu_d3146090747d4410.webp 1x, http://localhost:1313/images/showcase/showcaseanto_hu_2d58de804bb91eb6.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/showcase/showcaseanto_hu_7c2e32474fd486a4.png 1x, http://localhost:1313/images/showcase/showcaseanto_hu_d3d4efd7612dd7ca.png 2x" type="image/png">
+
+ &lt;img
+ width="480"
+ height="360"
+ class="lozad img-responsive "
+ data-src="http://localhost:1313/images/showcase/showcaseanto_hu_7c2e32474fd486a4.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+
+
+
+ &lt;/div>
+ &lt;div class="col-12 inner-content">
+ 
+
+
+
+
+
+ 
+
+&lt;div class="container" id="social">
+ &lt;div class="row platform-links shortcode">
+ &lt;div class="col-12">
+ 
+ 
+ &lt;a
+ href="https://twitter.com/DonAntonioHS"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="x-twitter"
+ >&lt;i class="icon-x-twitter">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://www.linkedin.com/in/antoniohs/"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="linkedin"
+ >&lt;i class="icon-linkedin">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://github.com/antoniohs"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="square-github"
+ >&lt;i class="icon-square-github">&lt;/i>
+ &lt;/a>
+
+ 
+ 
+ &lt;a
+ href="https://bsky.app/profile/donantoniohs.bsky.social"
+ target="_blank"
+ rel="noopener noreferrer"
+ aria-label="bluesky"
+ >&lt;i class="icon-bluesky">&lt;/i>
+ &lt;/a>
+
+&lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+ &lt;/div>
+ 
+
+ &lt;/div>
+
+
+ &lt;div class="row platform-links">
+ &lt;div class="col-12">&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ 
+&lt;/section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;section id="about" class="section rad-animation-group pb-0">
+ &lt;div class="rad-fade-down">
+ &lt;div class="row d-flex flex-column-reverse flex-md-row">
+ &lt;div class="about__profile-picture col-12 col-md-6">
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/about/antonio_hu_a248284c45a50a1.webp 1x, http://localhost:1313/images/about/antonio_hu_9f87079a8c5993ab.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/about/antonio_hu_f5ea17e9eb867af5.png 1x, http://localhost:1313/images/about/antonio_hu_713c188ec85ac1d3.png 2x" type="image/png">
+
+ &lt;img
+ width="640"
+ height="480"
+ class="lozad img-responsive image-left-overflow"
+ data-src="http://localhost:1313/images/about/antonio_hu_f5ea17e9eb867af5.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
+
+ &lt;/div>
+ &lt;div class="col-12 col-md-6 my-auto">
+ &lt;h1>About me&lt;/h1>
+ &lt;div class="about-me content lead">
+ &lt;p>A hands-on technology leader dedicated to improving nature and society. I build product-focused, high-performance teams that deliver exceptional results through a culture of respect, accountability, and exemplary leadership.&lt;/p></description></item><item><title>Search</title><link>http://localhost:1313/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search/</guid><description>search</description></item></channel></rss>

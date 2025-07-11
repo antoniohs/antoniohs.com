@@ -1,0 +1,71 @@
+## Meta tags
+- id: "meta_title"
+  translation: "Antonio H.S. - Purpose-Driven Engineer"
+- id: "meta_description"
+  translation: "Personal website of Antonio Hernández, purpose-driven software engineer and technical leader."
+- id: "meta_keywords"
+  translation: ""
+- id: "meta_author"
+  translation: "Antonio Hernández"
+- id: "meta_image"
+  translation: "/img/general/og-image.jpg"
+
+## Header
+
+- id: "logo_alt"
+  translation: "AntonioHS logo"
+
+- id: "logo_text1"
+  translation: "Antonio"
+
+- id: "logo_text2"
+  translation: "HS"
+
+## General
+- id: "skipToMainContent"
+  translation: "Skip to main content"
+
+- id: "toggle_navigation"
+  translation: "Toggle navigation"
+
+## Footer
+- id: "footer_notice"
+  translation: "© Antonio Hernández. Hugo theme: © Adritian by Adrián Moreno Peña."
+
+- id: "language"
+  translation: "Language"
+
+- id: "toggle_theme"
+  translation: "Toggle theme"
+
+- id: "theme_light"
+  translation: "☀️ Light"
+- id: "theme_dark"
+  translation: "🌑 Dark"
+- id: "theme_auto"
+  translation: "Auto"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Antonio H.S. - Purpose-Driven Engineer"
+
+- id: "head_description"
+  translation: "Personal website of Antonio Hernández, purpose-driven software engineer and technical leader."
+
+## Blog
+- id: "read_more"
+  translation: "Read more"
+
+- id: "published_on"
+  translation: ""
+
+- id: "continue_reading"
+  translation: "Continue reading"
+
+## 404 Page
+- id: "404_title"
+  translation: "Page not found"
+- id: "404_description"
+  translation: "Sorry, but the page you were looking for could not be found."
+- id: "404_button"
+  translation: "Back to homepage"
