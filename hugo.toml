@@ -153,12 +153,6 @@ name = "email"
 URL = "#contact"
 weight = 5
 
-[[languages.en.menus.header]]
-pre = "search"
-name = "Search"
-URL = "/search"
-weight = 6
-
 [[languages.en.menus.footer]]
 name = "Home"
 URL = "/"
