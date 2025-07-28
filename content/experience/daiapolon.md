@@ -1,5 +1,5 @@
 ---
-date: 2016-12-02T00:00:00+01:00
+date: 2025-07-02T00:00:00+01:00
 draft: false
 title: "Dai Apolon - Self Owned"
 jobTitle: "Technology consultant"
