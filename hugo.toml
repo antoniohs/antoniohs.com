@@ -2,6 +2,11 @@ baseURL = "https://antoniohs.com/"
 title = "Antonio HS - Purpose-Driven Engineer"
 languageCode = "en"
 
+# Build settings
+buildFuture = true
+buildDrafts = false
+buildExpired = false
+
 # Exclude footer section from generating list pages (index.html and index.xml)
 [outputs]
   page = ["HTML"]
@@ -16,7 +21,12 @@ languageCode = "en"
   # Empty configuration to prevent any output
 
 # Specifically disable generation of these kinds for the footer content
-disableKinds = ["footerSection", "RSS"]
+disableKinds = ["footerSection"]
+
+# Taxonomies configuration
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [module]
 [[module.imports]]
